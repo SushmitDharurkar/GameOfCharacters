@@ -1,2 +1,2 @@
 # GameOfCharacters
-Semester project for Dialog Systems Course
+An Amazon Alexa Skill which can answer queries related to Game of Thrones.
